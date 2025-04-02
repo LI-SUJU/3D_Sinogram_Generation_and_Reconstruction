@@ -1,5 +1,4 @@
 
-```markdown
 # 3D Sinogram Generation and Reconstruction
 
 This project simulates a 3D foam phantom, generates sinograms under various experimental settings, and reconstructs the phantom using FBP and SIRT algorithms with the ASTRA Toolbox.
