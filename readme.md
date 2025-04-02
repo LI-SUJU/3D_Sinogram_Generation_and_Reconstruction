@@ -66,4 +66,3 @@ Reconstruction results and visualization images will be saved in the `output/` f
 
 - This project uses 2D reconstruction (slice by slice) to simulate 3D reconstruction due to ASTRA 3D limitations on some platforms.
 
-```
